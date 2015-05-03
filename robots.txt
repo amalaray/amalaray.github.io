@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://amalaray.github.io/sitemap.xml 
